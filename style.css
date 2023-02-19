@@ -1,0 +1,71 @@
+
+.mutema{
+    width: 999px;
+    height: 999px;
+   
+    margin: 0 auto;
+    margin-top: 50px;
+    
+    
+}
+.box{
+  
+    width: 335px;
+    min-height: 555px;
+    background-color: aliceblue;
+    margin: 0 auto;
+    margin-top: 90px;
+    border-radius: 20px;
+    text-align: center;
+}
+.box h1{
+    color: #003D5B;
+}
+.box p{
+    color: #5B618A;
+    font-size: 18px;
+}
+
+.box-img{
+    display: flex;
+   
+    
+   
+ 
+  
+    
+   
+    
+}
+figure{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+   
+    
+   
+
+   
+    
+    
+   
+}
+img{
+   
+    width: 100%;
+ 
+    
+    border-radius: 20px;
+}
+section{
+    width: 90px;
+    text-align: center;
+    
+}
+body{
+    background-color: #30638E;
+}
+
+
+
